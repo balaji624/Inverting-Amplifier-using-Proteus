@@ -23,7 +23,8 @@ The non-inverting terminal (+) is grounded.
 •	Pin 4 → -15V
 The input sine wave is applied through R1 and output is taken from pin 6.
 ## Circuit Diagram
-<img width="1610" height="793" alt="image" src="https://github.com/user-attachments/assets/03379bdd-19cf-4f9c-b2ff-5b2ac87f7f95" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/31b5345b-f512-44ee-838d-f7d16ac081ac" />
+
 
 ## Tabulation
 Input Voltage (Vin)	Theoretical Gain (Av)	Theoretical Vout	Practical Vout (Proteus)
