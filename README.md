@@ -58,7 +58,8 @@ o	Input = 1V, 1kHz sine wave
 •	Output: Amplified sine wave
 •	Phase Shift: 180°
 •	Gain ≈ -10
-<img width="1380" height="876" alt="image" src="https://github.com/user-attachments/assets/0e7191c0-4b6e-4a02-9bfb-faaa0335665c" />
+<img width="1372" height="873" alt="image" src="https://github.com/user-attachments/assets/82576f45-7d45-47de-be3a-6cef0017316d" />
+
 
 ## Result
 The Inverting Amplifier using μA741 Op-Amp was successfully designed and simulated in Proteus.
